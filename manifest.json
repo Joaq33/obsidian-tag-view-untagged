@@ -1,0 +1,10 @@
+{
+	"id": "tag-tweaks",
+	"name": "Tag View Tweaks",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Logs tag clicks and adds an Untagged entry to the Tags pane.",
+	"author": "Antigravity",
+	"authorUrl": "https://google.com",
+	"isDesktopOnly": true
+}
