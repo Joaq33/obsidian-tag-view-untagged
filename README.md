@@ -1,4 +1,4 @@
-# Tag View Tweaks
+# Tag View Untagged
 
 A powerful Obsidian plugin that enhances the Tags sidebar with an **Untagged Files** indicator and improved navigation features.
 
@@ -30,17 +30,17 @@ The untagged count updates in real-time as you:
 
 ### From Community Plugins (Coming Soon)
 1. Open **Settings** -> **Community Plugins**.
-2. Click **Browse** and search for "Tag View Tweaks".
+2. Click **Browse** and search for "Tag View Untagged".
 3. Click **Install**, then **Enable**.
 
 ### Manual Installation
 1. Download `main.js`, `manifest.json`, and `styles.css` from the latest release.
-2. Create a folder named `obsidian-tagview-untagged` in your vault's `.obsidian/plugins/` directory.
+2. Create a folder named `tag-view-untagged` in your vault's `.obsidian/plugins/` directory.
 3. Move the downloaded files into that folder.
 4. Reload Obsidian and enable the plugin.
 
 ## Settings
-Go to the **Tag View Tweaks** settings tab to:
+Go to the **Tag View Untagged** settings tab to:
 - Select your preferred **Design System Entry** (Display Mode).
 - Customize the vertical rhythm and alignment of the indicator.
 
