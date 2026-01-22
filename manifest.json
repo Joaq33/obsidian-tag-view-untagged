@@ -3,7 +3,7 @@
 	"name": "Tag View Untagged",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Shows untagged file count in Tags sidebar with quick browser and live sync",
+	"description": "Shows untagged file count in Tags sidebar with quick browser and live sync.",
 	"author": "Joaq33",
 	"authorUrl": "https://github.com/Joaq33",
 	"isDesktopOnly": false
